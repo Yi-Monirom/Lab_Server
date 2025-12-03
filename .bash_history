@@ -240,3 +240,106 @@ sudo apt jdk install -y
 sudo apt  install jdk -y
 sudo apt update
 sudo apt install default-jdk -y
+ls
+cd Lab4
+ls
+ipconfig
+ifconfig
+ssh gic-yi-monirom@192.168.23.9
+clear
+ssh gic-yi-monirom@192.168.23.9
+cd
+ssh gic-yi-monirom@192.168.23.9
+git init
+ls
+tree
+tree -L 1
+cd snap
+ls
+cd tree
+ls
+cd current
+ls
+cd ..
+cd common
+ls
+cd .
+cd ../54
+ls
+cd
+ls
+cd class_week_3
+ls
+cd
+cd class_week_4
+ls
+cd
+mkdir class_week_3
+mkdir class_week_2
+ls
+clear
+git init
+git config --global user.name "Yi-Monirom"
+git config --global user.email "moniromyi@gmail.com"
+git config --list
+git init
+git status
+ls
+git add .
+git status
+git commit -m "use_git_for_lab_server"
+git branch -M MoniRom
+git branch
+git remote add origin https://github.com/Yi-Monirom/Lab_Server.git
+git remote -v
+git push origin MoniRom
+cd home
+ls
+tree -L 1
+cd Lab2
+ls
+tree
+cd ../Lab3
+ls
+tree
+cd 
+cd class_week_4
+ls
+cd
+mkdir home
+mv . home
+mv * home
+cd Lab3
+ls
+cd home
+ls
+cd class_week_3
+ls
+cd
+cd home
+cd Lab4
+ls -l > /Lab4/contents.txt
+ls
+ls -l > contents.txt
+ls
+cat contents.txt 
+cd
+ls
+cd home
+ls -L > Lab4/contents.txt 
+cd Lab4
+cat contents.txt \
+sort contents.txt >> sort_contents.txt
+ls
+cat sort_contents.txt 
+mkdir Documents
+tail -n 10 /etc/passwd > ~/Documents/passwd-last10.txt
+tail -n 10 /etc/passwd > ~/Documents/password
+cd Documents/
+touch passsword.txt
+tail -n 10 /etc/passwd > password
+cat password
+ls
+cd home
+ls
+mkdir class_activity4
